@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/nicolas-miari/Component.git",
       "state" : {
-        "revision" : "02a14fe587102ee46a97cf4461b4cf6d6da4e9cd",
-        "version" : "0.0.2"
+        "revision" : "e73ab87eea503e560077be79c1afd4b7582eda3a",
+        "version" : "1.0.0"
       }
     }
   ],
